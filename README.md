@@ -23,19 +23,19 @@ This is a Stock Management & Dynamic Pricing project. It simulates a real store 
 **1. Clone the repo**
 ```bash
 git clone [https://github.com/sinacglr/smart-stock-system.git](https://github.com/sinacglr/smart-stock-system.git)
-cd smart-stock-system
+cd smart-stock-system```
 
 **2. Install packages**
-npm install
+```npm install```
 
 **3. Start the database**
-docker-compose up -d
+```docker-compose up -d```
 
 **4. Setup Database**
-npx prisma db push
-npx prisma db seed
+```npx prisma db push```
+```npx prisma db seed```
 
 **5. Run the app**
-npm run
+```npm run```
 
 Go to http://localhost:3000
