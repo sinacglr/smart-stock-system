@@ -6,7 +6,7 @@ This is a Stock Management & Dynamic Pricing project. It simulates a real store 
 
 1.  **Smart Pricing:** If the stock of a product is low, the price automatically increases.
 2.  **Dashboard:** Shows total revenue, total orders, and critical stocks.
-3.  **Price History:** Shos how the price changed over time.
+3.  **Price History:** Shows how the price changed over time.
 4.  **Panel:** You can sell items or increase stock of a product.
 
 ## Tools Used
